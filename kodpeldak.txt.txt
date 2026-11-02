@@ -1,0 +1,4 @@
+program pelda;
+begin
+  write ('Hello World')
+end.
